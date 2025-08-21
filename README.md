@@ -1,5 +1,5 @@
 # 🚴 Bike Store SQL Project
-# 📌 Overview
+# 📌Overview
 
 This project analyzes a Bike Store database using SQL to extract valuable business insights. The dataset contains information about customers, products, stores, staff, orders, and sales. The objective is to perform data exploration, cleaning, and analysis through SQL queries to support decision-making.
 
